@@ -43,10 +43,10 @@
 ### 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mhmd-sherbiny/" target="_blank">
+  <a href="https://www.linkedin.com/in/mhmdsherbiny/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
   </a>
-  <a href="https://t.me/mhmd_sherbiny" target="_blank">
+  <a href="https://t.me/mhmdsherbiny" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin-left: 10px;"/>
   </a>
 </div>
